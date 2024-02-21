@@ -1,4 +1,4 @@
-# Tangenaasen-CNC
+# Tangenåsen CNC
 *Dokumentasjon av CNC fresen på Tangenåsen makerspace - AvidCNC 4x2*
 
 ### Index
@@ -18,7 +18,7 @@
 
 ### Om maskinen
 
-Maskinen ble kjøpt brukt høsten 2023. De makeaniske delene er fra et kit av typen ["PRO4824 4' x 2' CNC Router Machine"](https://www.avidcnc.com/pro4824-4-x-2-cnc-router-machine-p-1334.html) fra AvidCNC i USA. Kontrolleren er av typen [CNC USB controller Mk3](https://planet-cnc.com/hardware/) fra PlanetCNC i Tyskland. Motorene, driverene, spindelen og frekvensomformeren er fra diverse kinsesiske produsenter. Elektronikkskapet er bygget som et gjør det selv prosejkt av tidligere eier.
+Maskinen ble kjøpt brukt høsten 2023. De makeaniske delene er fra et kit av typen ["PRO4824 4' x 2' CNC Router Machine"](https://www.avidcnc.com/pro4824-4-x-2-cnc-router-machine-p-1334.html) fra AvidCNC i USA. Kontrolleren er av typen [CNC USB controller Mk3](https://planet-cnc.com/hardware/) fra PlanetCNC i Tyskland. Motorene, driverene, spindelen og frekvensomformeren er fra diverse kinsesiske produsenter. Elektronikkskapet er bygget som et gjør-det-selv prosejkt av tidligere eier.
 
  - Arbeidsområde X-Y: 1220mm x ca 590mm
  - Vandring på Z akse: Ca 180mm *(det er mulig å skjære igjennom opptil ca 80mm tykke emner)*
