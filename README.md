@@ -1,17 +1,37 @@
 # Tangenåsen CNC
 *Dokumentasjon av CNC fresen på Tangenåsen makerspace - AvidCNC 4x2*
 
+![](Bilder/bilde-forfra.jpg)
+
 ### Index
 
-### Hva
+- [Hva er en CNC fres](https://github.com/JensDyvik/Tangenaasen-CNC/tree/main#hva-er-en-cnc-fres)
+- [Hurtigguide]()
+- [Tutorial]()
+- [Instillinger fresestål startpakke]()
+- [Avansert bruk]()
+- [Om maskinen]()
+- [Vedlikeholdsrutiner]()
+- [Feilsøking]()
+- [Ressurser om fresing]()
+- [To do på maskinen]()
+
+
+![](Bilder/bilde-fresing.jpg)
+
+### Hva er en CNC fres
+*Kommer snart*
 
 ### Hurtigguide
+*Kommer snart*
 
 ### Tutorial enkel fresig med Inkscape og OpenBuilds CAM
+*Kommer snart*
 
-### Eksempel på instillinger fresestål
+### Instillinger fresestål startpakke
+*Kommer snart*
 
-### Avansert  bruk
+### Avansert bruk
 
  - Gantry squaring
  - Work coordinates
@@ -31,11 +51,14 @@ Maskinen ble kjøpt brukt høsten 2023. De makeaniske delene er fra et kit av ty
  - Steps per mm X-Y:
  - Steps per mm Z:
 
-### Vedlikeholdsrutine
+### Vedlikeholdsrutiner
+*Kommer snart*
 
-### Feil søking
+### Feilsøking
+*Kommer snart*
 
-### Ressusrer om fresing
+### Ressurser om fresing
+*Kommer snart*
 
 ### To do på maskinen
 
@@ -48,3 +71,4 @@ Maskinen ble kjøpt brukt høsten 2023. De makeaniske delene er fra et kit av ty
 ### Versjonshistorie
 
 - 19.2.2024: Dokument startet av Jens Dyvik
+- 29.2.2024: Oppdtatert av Jens Dyvik
