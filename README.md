@@ -3,9 +3,10 @@
 
 ![](Bilder/bilde-forfra.jpg)
 
-### Index
+### Indeks
 
 - [Hva er en CNC fres](https://github.com/JensDyvik/Tangenaasen-CNC/tree/main#hva-er-en-cnc-fres)
+- [HMS]()
 - [Hurtigguide]()
 - [Tutorial]()
 - [Instillinger fresestål startpakke]()
@@ -21,6 +22,15 @@
 
 ### Hva er en CNC fres
 *Kommer snart*
+
+###
+
+**Mens du freser:**
+- Bruk vernebriller
+- Bruk hørselsvern
+- Ha på støvavsuget
+- Ta aldri på maskinen eller materialet mens maskinen går
+
 
 ### Hurtigguide
 *Kommer snart*
