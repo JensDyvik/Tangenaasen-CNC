@@ -3,7 +3,7 @@
 
 ![](Bilder/bilde-forfra.jpg)
 
-### Indeks
+## Indeks
 
 - [Hva er en CNC fres](https://github.com/JensDyvik/Tangenaasen-CNC/tree/main#hva-er-en-cnc-fres)
 - [Sikkerhet](https://github.com/JensDyvik/Tangenaasen-CNC/tree/main#sikkerhet)
@@ -20,10 +20,10 @@
 
 ![](Bilder/bilde-fresing.jpg)
 
-### Hva er en CNC fres
+## Hva er en CNC fres
 *Kommer snart*
 
-### Sikkerhet
+## Sikkerhet
 
 **Mens du freser:**
 
@@ -32,7 +32,7 @@
 - Bruk hørselsvern
 - Ha på støvavsuget
 
-### Sjekkliste
+## Sjekkliste
 
 - Varm opp spindelen *(kjør i luften noen minutter)*
 - Fest materialet til sengen
@@ -48,10 +48,19 @@
 Husk å forlate maskinen ryddigere enn du fant den
 
 
-### Tutorial for enkel fresig
-*Kommer snart*
+## Tutorial for enkel fresing
 
-### Instillinger fresestål startpakke
+**Del1: Tegning med InkScape**
+- Fra menyen: Path- Object to path *(Shift+Ctrl+C)*
+
+**Del2: Lage fresebaner med OpenBuildsCAM**
+
+- Refresh nettleser *(Ctrl+R)*
+
+
+
+
+## Instillinger fresestål startpakke
 
 *Plungerate er alltid 2/3 av Feedrate*
 
@@ -77,11 +86,11 @@ Husk å forlate maskinen ryddigere enn du fant den
 - 4mm upcut, ett skjær - Feedrate: 850mm/m, Passdepth: 0.4mm, Spindel RPM: 16000 *(Husk ramp angle på 8 grader, ikke mos rett ned i materialet)*
 - 6mm upcut, ett skjær - Feedrate: 1280mm/m, Passdepth: 0.5mm, Spindel RPM: 16000 *(Husk ramp angle på 8 grader, ikke mos rett ned i materialet)*
 
-### Avansert bruk
+## Avansert bruk
 
  - Gantry squaring finner man i menyen øverst på skjermen: Machine- Measure- Gantry Square
 
-### Om maskinen
+## Om maskinen
 
 Maskinen ble kjøpt brukt høsten 2023. De makeaniske delene er fra et kit av typen ["PRO4824 4' x 2' CNC Router Machine"](https://www.avidcnc.com/pro4824-4-x-2-cnc-router-machine-p-1334.html) fra AvidCNC i USA. Kontrolleren er av typen [CNC USB controller Mk3](https://planet-cnc.com/hardware/) fra PlanetCNC i Tyskland. Motorene, driverene, spindelen og frekvensomformeren er fra diverse kinsesiske produsenter. Elektronikkskapet er bygget som et gjør-det-selv prosejkt av tidligere eier.
 
@@ -96,16 +105,16 @@ Maskinen ble kjøpt brukt høsten 2023. De makeaniske delene er fra et kit av ty
  - Steps per mm X-Y:
  - Steps per mm Z:
 
-### Vedlikeholdsrutiner
+## Vedlikeholdsrutiner
 *Kommer snart*
 
-### Feilsøking
+## Feilsøking
 *Kommer snart*
 
-### Ressurser om fresing
+## Ressurser om fresing
 *Kommer snart*
 
-### To do på maskinen
+## To do på maskinen
 
  - Forbedre maskin sikkerhet. E-stop + mer stabil arbeidsstasjon
  - Oppdater config backup
