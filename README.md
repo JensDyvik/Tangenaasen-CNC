@@ -9,7 +9,7 @@
 - [Sikkerhet](https://github.com/JensDyvik/Tangenaasen-CNC/tree/main#sikkerhet)
 - [Sjekkliste](https://github.com/JensDyvik/Tangenaasen-CNC/tree/main#sjekkliste)
 - [CAM programmer](https://github.com/JensDyvik/Tangenaasen-CNC/tree/main#cam-programmer)
-- [Innstillinger fresestål startpakke](https://github.com/JensDyvik/Tangenaasen-CNC/tree/innstillinger-fresest%C3%A5l-startpakke)
+- [Innstillinger fresestål startpakke](https://github.com/JensDyvik/Tangenaasen-CNC/tree/main#innstillinger-fresest%C3%A5l-startpakke)
 - [Avansert bruk](https://github.com/JensDyvik/Tangenaasen-CNC/tree/main#avansert-bruk)
 - [Om maskinen](https://github.com/JensDyvik/Tangenaasen-CNC/tree/main#om-maskinen)
 - [Vedlikeholdsrutiner](https://github.com/JensDyvik/Tangenaasen-CNC/tree/main#vedlikeholdsrutiner)
