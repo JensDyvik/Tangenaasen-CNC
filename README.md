@@ -17,7 +17,7 @@
 
 
 ![](Bilder/bilde-fresing.jpg)
-*CNC fresen på Tangenåsen blir beukt til å lage møbeldeler i kryssfiner*
+*CNC fresen på Tangenåsen blir brukt til å lage møbeldeler i kryssfiner*
 
 ![](https://www.popularwoodworking.com/wp-content/uploads/2021/02/pw_cnc_01a-1800x1200.jpg)
 *Nærbilde av CNC fresing fra [Popular woodworking](https://www.popularwoodworking.com/techniques/feeds-speeds-for-cnc-routers/)*
