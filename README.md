@@ -9,11 +9,10 @@
 - [Sikkerhet](https://github.com/JensDyvik/Tangenaasen-CNC/tree/main#sikkerhet)
 - [Sjekkliste](https://github.com/JensDyvik/Tangenaasen-CNC/tree/main#sjekkliste)
 - [CAM programmer](https://github.com/JensDyvik/Tangenaasen-CNC/tree/main#cam-programmer)
-- [Innstillinger fresestål startpakke](https://github.com/JensDyvik/Tangenaasen-CNC/tree/main#innstillinger-fresestål-startpakke)
+- [Innstillinger fresestål startpakke](https://github.com/JensDyvik/Tangenaasen-CNC/tree/innstillinger-fresest%C3%A5l-startpakke)
 - [Avansert bruk](https://github.com/JensDyvik/Tangenaasen-CNC/tree/main#avansert-bruk)
 - [Om maskinen](https://github.com/JensDyvik/Tangenaasen-CNC/tree/main#om-maskinen)
 - [Vedlikeholdsrutiner](https://github.com/JensDyvik/Tangenaasen-CNC/tree/main#vedlikeholdsrutiner)
-- [Ressurser om fresing](https://github.com/JensDyvik/Tangenaasen-CNC/tree/main#ressurser-om-fresing)
 - [To do på maskinen](https://github.com/JensDyvik/Tangenaasen-CNC/tree/main#to-do-på-maskinen)
 
 
@@ -34,7 +33,7 @@ Man kan tenke på en CNC fres som en omvendt 3D printer, som fjerner materiale l
 **Videre ressurser om fresing:**
 
  - Wikipedia sin [side](https://en.wikipedia.org/wiki/CNC_router) om CNC rutere
- - Fellesverkstedet sin [guide](https://fellesverkstedet.notion.site/CNC-c8a862efdc5a490c9c88aebecad0ac88)til CNC fresing
+ - Fellesverkstedet sin [guide](https://fellesverkstedet.notion.site/CNC-c8a862efdc5a490c9c88aebecad0ac88) til CNC fresing
 
 
 ## Sikkerhet
@@ -42,7 +41,7 @@ Man kan tenke på en CNC fres som en omvendt 3D printer, som fjerner materiale l
 **Mens du freser:**
 
 - Ta aldri på maskinen eller materialet mens maskinen går
-- Forlat aldri fra maskinen mens den går
+- Forlat aldri maskinen mens den går
 - Bruk vernebriller
 - Bruk hørselsvern
 - Ha på støvavsuget
@@ -112,6 +111,7 @@ CAM er navnet på programmer som man bruker for å konvertere en 2D eller 3D teg
 ## Avansert bruk
 
  - Gantry squaring rutinen er i menyen øverst på skjermen: Machine- Measure- Gantry Square. *(Gantry squaring kan brukes til å automatisk rette opp traversen på maskinen, slik at kutt blir vinkelrette. Traversen kan bli skjev om den f.eks blir dyttet på den ene siden mens den er avskrudd)*
+ - Tosidig fresing: For registrere emner når man skal frese fra to sider kan man lage hull for to møbelplugger i offerplaten til sengen og i emnet.
 
 ## Om maskinen
 
@@ -144,7 +144,6 @@ Maskinen ble kjøpt brukt høsten 2023. De mekaniske delene er fra et byggesett 
 
 - Planere offerplaten
 - Lim på ny offerplate
-
 
 
 ## To do på maskinen
