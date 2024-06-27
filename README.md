@@ -1,5 +1,5 @@
 # Tangenåsen CNC
-*Dokumentasjon av CNC fresen på Tangenåsen makerspace - AvidCNC 4x2. Skrevet av Jens Dyvik, februar-juni 2024*
+*Dokumentasjon av CNC fresen på Tangenåsen makerspace - AvidCNC 4x2. Skrevet av Jens Dyvik, Februar - Juni 2024*
 
 ![](Bilder/bilde-forfra.jpg)
 
@@ -31,7 +31,7 @@ For å kunne lage en del med en CNC fres må man først lage en 2D eller 3D tegn
 
 Man kan tenke på en CNC fres som en omvendt 3D printer, som fjerner materiale lag for lag, istedenfor for å bygge opp objektet lag for lag. Sammenlignet med en 3D printer jobber en CNC fres mye raskere og mer presist i flere forskjellige materialer *(treverk, plast, aluminium, messing og mer)*. Men det er litt mer krevende å sette opp en jobb for en CNC fres og det er litt flere geometriske begrensinger *(indre hjørner får fresestålets diameter og ingen overheng mulig)*. For å lage mer komplekse 3D former er det mulig å snu emnet og jobbe fra to eller flere sider.
 
-**Videre ressurser om fresing**
+**Videre ressurser om fresing:**
 
  - Wikipedia sin [side](https://en.wikipedia.org/wiki/CNC_router) om CNC rutere
  - Fellesverkstedet sin [guide](https://fellesverkstedet.notion.site/CNC-c8a862efdc5a490c9c88aebecad0ac88)til CNC fresing
@@ -72,13 +72,13 @@ CAM er navnet på programmer som man bruker for å konvertere en 2D eller 3D teg
 
  - [OpenBuildsCAM](https://cam.openbuilds.com/) *([InkScape](https://inkscape.org/) er et fint tegneprgam for å lage tegninger som kan importeres in OpenBuildsCAM)*
  
- **Gratis avansert CAM i 3D tegneprogram**
+ **Gratis avansert CAM i 3D tegneprogram:**
  
  - [FreeCAD](https://www.freecadweb.org/) *(Krevende å starte med, men kraftig og open source*)
  - [BarkBeetle](https://github.com/fellesverkstedet/Bark-beetle-parametric-toolpaths) *(krever at man har lisens på Rhino3D, en ferdig konfigurert versjon av BarkBeetle for AvidCNC maskinen på er publisert [her](https://github.com/JensDyvik/Tangenaasen-CNC/tree/main/Bark%20Beetle%20CAM%20-%20for%20Rhino))*
  - [Fusion360](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi71tWk-suDAxXpAhAIHec7BYoQFnoECBQQAQ&url=https%3A%2F%2Fwww.autodesk.com%2Fproducts%2Ffusion-360%2Fpersonal&usg=AOvVaw2Qpz756Hs5P4X8QVNBXLeT&opi=89978449) *(veldig kraftig og populært, men har mange begrensninger i gratis versjonen)*
 
-**Bra CAM for nybegynnere**
+**Bra CAM for nybegynnere:**
 
 - [VCarve Pro Makerspace edition](https://www.vectric.com/products/makerspace) *(Har årlig gruppe abonnement for makerspace. Er veldig populært på makerspaces som bitraf og Fellesverkstedet.)*
 
@@ -129,18 +129,18 @@ Maskinen ble kjøpt brukt høsten 2023. De mekaniske delene er fra et byggesett 
 
 ## Vedlikeholdsrutiner
 
-**En gang i måneden**
+**En gang i måneden:**
 
 - Rense spindelkon for støv
 - Rengjør maskinen grundig for støv og spon
 - Sjekk X og Y akse for slark og evt. etterstram den fjærbelastede skruen som presser tannhjulet mot tannstangen
 
-**En gang i året**
+**En gang i året:**
 
 - Legg på smørefett på rack *(tannstang*). Traversaksen *(broen)* og høyre og venstre side av sengen.
 - Pump smørefett i blokkene til ineærføringene på alle akser
 
-**Ved behov**
+**Ved behov:**
 
 - Planere offerplaten
 - Lim på ny offerplate
